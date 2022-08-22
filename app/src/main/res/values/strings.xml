@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hesap Makinesi</string>
+    <string name="x">X</string>
+    <string name="Divides">/</string>
+    <string name="Divides1">/</string>
+    <string name="FirstNumber">İlk Sayıyı Giriniz</string>
+    <string name="SecondNumber">İkinci Sayıyı Giriniz</string>
+</resources>
